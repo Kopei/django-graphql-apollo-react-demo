@@ -1,0 +1,1 @@
+!coverage.py: This is a private format, don't read it directly!{"lines":{"/app/backend/simple_app/models.py":[1,2,5,6,7,8],"/app/backend/simple_app/admin.py":[1,4,5,7],"/app/backend/simple_app/schema.py":[2,3,5,8,9,10,11,14,15,17,18],"/app/backend/simple_app/tests.py":[],"/app/backend/simple_app/views.py":[],"/app/backend/backend/schema.py":[]}}
